@@ -23,9 +23,6 @@ I believe that to build products people love, you need to think like a **strateg
 - 💬 **Ask me about:** React, Next.js, Nest.js, AWS, Architecture, Business, Branding and Design.
 
 - ⚡ **Fun fact:** I’m a passionate home chef 🧑‍🍳 I love creating restaurant-quality dishes, purely for the joy of it.
-
-- 📚 **On Going Study Project:** <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="16" height="16"/></a>
- [Real Home - Porfolio App](https://www.figma.com/design/F7iVs9rfYO86mv6MQH9W97/RealHome---Portfolio-Project?node-id=4005-49&t=aizjurZgDFSDSv87-1)
 ---
 
 🤝 Connect with Me
